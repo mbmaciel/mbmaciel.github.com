@@ -19,7 +19,10 @@ w3IncludeHTML();
       <p>[StringLength(60)]  - Tamanho máximo do string (Ex: 60 caracteres)</p>
       <p>[StringLength(60, MinimumLength = 4)]  - Tamanho máximo do string e mínimo (Ex: 60 caracteres máximo, 4 mínimo)</p>
       <p>[Range(18, 30)]  - Coloca o minimo e o máximo para valores numéricos (Ex: 18 min e max 30)</p>
-      
+      <p>[Display(Name = "Nome Completo")] - Mostra o valor a ser mostrado na view (Ex: mostra 'Nome Completo')    </p>
+      <p>[ScaffoldColumn(false)]  - Não aparece na view </p>
+      <p>[DisplayFormat(ApplyFormatInEditMode = true, DataFormatString = "{0:c}")]  - Formato a ser mostrado (Ex: Aplica no Editar também) </p>
+      <p>[ReadOnly(true)]  - Somente leitura </p>
 
 
       </section>
