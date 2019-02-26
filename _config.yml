@@ -20,6 +20,11 @@ social-network-links:
   facebook: mbmacielcom
   github: mbmaciel
   twitter: mbmaciel
+  
+share-links-active:
+  twitter: true
+  facebook: true
+  github: true
 
 gems:
   - jekyll-mentions
