@@ -1,7 +1,7 @@
 title: Mbmaciel.GitHub.com
 description: Blog
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-tactile
 
 gems:
