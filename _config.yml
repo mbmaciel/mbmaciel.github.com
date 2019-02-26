@@ -4,8 +4,9 @@ google_analytics:
 show_downloads: false
 theme: jekyll-theme-tactile
 
-# --- Footer options --- #
-
+navbar-links:
+  About Me: "aboutme"
+  
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
