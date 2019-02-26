@@ -1,8 +1,10 @@
+### Blog Mbmaciel
+
 ### Desenvolvimento híbrido x nativo.
 O desenvolvimento híbrido tem a vantagem de ter um custo menor e ser bem mais fácil e rápido o seu desenvolvimento, além disso é possível fazer aplicativos multiplataforma com poucas alterações. No caso do app nativo ele é feito em sua propria linguagem e por isso pode ser um pouco mais rápido. Porém tem um custo de desenvolvimento mais caro.... [continua]
 
 ### Sites responsivos
-Atualmente a maioria dos usuários usa celular ou tablet para acessar a internet. Por isso não existe mais site responsivo, existe apenas site. É praticamente obrigatório ter um site que funcione corretamente em ambientes móveis.... [continua]
+Atualmente a maioria dos usuários usa celular ou tablet para acessar a internet. Por isso não existe mais site responsivo, existe apenas site. É praticamente obrigatório ter um site que funcione corretamente em ambientes móveis.... [continua](respondivos)
 
 ### Orçamento de serviços
 Para saber um valor de um serviço é necessário que o desenvolvedor tenha o máximo de informações de uma projeto..... [continua]
