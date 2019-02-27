@@ -10,5 +10,8 @@ Atualmente a maioria dos usuários usa celular ou tablet para acessar a internet
 ### Orçamento de serviços
 Para saber um valor de um serviço é necessário que o desenvolvedor tenha o máximo de informações de uma projeto..... [continua](orcamento)
 
+### Sites seguros
+O protocolo HTTPS vai se tornando um padrão na internet e a Google sabe disso. Examente por este ponto, a companhia anunciou que vai retirar a palavra “seguro” que aparece na barra de link quando você navega em sites com o protocolo....[continua](site-seguro)
+
 ### Qual linguagem é melhor
 Na maioria das vezes, essa é a pergunta que menos interessa para o dono do projeto ... [continua](melhor-linguagem)
