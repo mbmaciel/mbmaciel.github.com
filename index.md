@@ -15,3 +15,6 @@ O protocolo HTTPS vai se tornando um padrão na internet e a Google sabe disso. 
 
 ### Qual linguagem é melhor
 Na maioria das vezes, essa é a pergunta que menos interessa para o dono do projeto ... [continua](melhor-linguagem)
+
+
+<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/187728/activity-summary/6915f7dadbc4c53dbfd30ff2c704ff9cde2a15c1'></iframe>
